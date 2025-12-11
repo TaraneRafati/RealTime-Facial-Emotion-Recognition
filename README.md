@@ -18,7 +18,7 @@ This project implements a two-phase pipeline for detecting faces and classifying
 
 ```
 .
-├── phase-1/            # Initial training and prototype implementation
+├── phase-1/           
 │   ├── train.py
 │   ├── eval.py
 │   ├── test.py
@@ -31,7 +31,7 @@ This project implements a two-phase pipeline for detecting faces and classifying
 │   ├── weights/
 │   └── output/
 │
-└── phase-2/            # Refined and deployment-ready system
+└── phase-2/            
     ├── face_detector.py
     ├── main.py
     ├── split.py
