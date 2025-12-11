@@ -14,35 +14,6 @@ This project implements a two-phase pipeline for detecting faces and classifying
 
 ---
 
-## Project Structure
-
-```
-.
-├── phase-1/           
-│   ├── train.py
-│   ├── eval.py
-│   ├── test.py
-│   ├── webcam.py
-│   ├── face_detector.py
-│   ├── main.py
-│   ├── split.py
-│   ├── utils/
-│   ├── models/
-│   ├── weights/
-│   └── output/
-│
-└── phase-2/            
-    ├── face_detector.py
-    ├── main.py
-    ├── split.py
-    ├── requirements.txt
-    ├── utils/
-    ├── models/
-    ├── weights/
-    └── output/
-```
-
----
 
 # Phase 1 (Prototype System)
 
